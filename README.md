@@ -12,10 +12,13 @@ A simple SmartThings Edge Driver + OctoPrint Webhook bridge to monitor 3D printi
 - Print Job Name Display
 
 ## Requirements
-- OctoPrint Server (latest version recommended)
-- OctoPrint Webhook Plugin (installed via Plugin Manager)
-- Samsung SmartThings Hub (V2/V3/Aeotec)
+
+- OctoPrint Server (v1.8.x or newer)
+- Samsung SmartThings Hub (v2/v3/Aeotec)
 - SmartThings Developer CLI installed
+- OctoPrint Webhooks Plugin (Maintained Version)
+
+> 🔗 [Download the updated Webhooks Plugin here (Maintained by Robert)](https://github.com/daedalas1981/OctoPrint-Webhooks)
 
 ## OctoPrint Setup
 1. Install the Webhook Plugin via Plugin Manager.
