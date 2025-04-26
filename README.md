@@ -28,3 +28,6 @@ A simple SmartThings Edge Driver + OctoPrint Webhook bridge to monitor 3D printi
 1. Install the driver:
    ```bash
    smartthings edge:drivers:package driver/
+
+## Flow Diagram
+![System Flow](diagram.png)
