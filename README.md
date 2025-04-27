@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.jpg" alt="OctoPrint-SmartThings-Bridge Logo" width="400"/>
+  <img src="logo.png" alt="OctoPrint-SmartThings-Bridge Logo" width="400"/>
 </p>
 
 # OctoPrint-SmartThings-Bridge
