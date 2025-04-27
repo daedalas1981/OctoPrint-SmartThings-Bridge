@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logo.jpg" alt="OctoPrint-SmartThings-Bridge Logo" width="400"/>
+</p>
+
 # OctoPrint-SmartThings-Bridge
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
