@@ -1,0 +1,7 @@
+name: OctoPrint SmartThings Bridge
+packageKey: octoprint-smartthings-bridge
+description: "Bridge for OctoPrint to SmartThings Edge integration"
+permissions:
+  lan: {}
+profiles:
+  - octoprint-bridge
